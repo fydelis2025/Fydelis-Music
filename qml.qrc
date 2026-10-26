@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/Pauta.qml</file>
+        <file>qml/BotaoNota.qml</file>
+        <file>qml/BotaoFigura.qml</file>
+    </qresource>
+</RCC>
